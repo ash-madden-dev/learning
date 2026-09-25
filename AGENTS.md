@@ -5,17 +5,19 @@
 ```
 learning/
   AGENTS.md
+  README.md
   elm/            1.elm  2.elm  3.elm ...
   haskell/        1.hs   2.hs   3.hs  ...
   liquid-haskell/ 1.hs   2.hs   3.hs  ...
   acadia/         1.elm  1.hs   2.elm  2.hs ...
+  sqlite/         1.sql  2.sql  3.sql ...
 ```
 
 - Files are named with **plain sequential numbers only** (`1.elm`, `2.hs`, ...).
 - One file = one challenge set. The highest number is the latest topic.
-- Elm extensions: `.elm`. Haskell and Liquid Haskell: `.hs`. Acadia sets get **both**
-  an `.elm` and a `.hs` file sharing the same number (Elm-host and Haskell-host versions
-  of the same topic).
+- Elm extensions: `.elm`. Haskell and Liquid Haskell: `.hs`. SQLite: `.sql`.
+  Acadia sets get **both** an `.elm` and an `.hs` file sharing the same number
+  (Elm-host and Haskell-host versions of the same topic).
 - When creating a new set, use the next number in that directory.
 
 ## Workflow
