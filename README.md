@@ -1,1 +1,1 @@
-Small practice challenges for tech I am interested in learning
+Small practice challenges to learn Elm, Haskell, Liquid Haskell, Acadia and SQLite.
